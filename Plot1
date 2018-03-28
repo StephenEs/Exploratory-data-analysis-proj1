@@ -10,6 +10,13 @@ hist(data1$Global_active_power, main="Global Active Power",
 
 
 
+Plot 1
 
+ 
+dev.copy(png, file="plot1.png", height=480, width=480)
 
-
+## png 
+##   2
+dev.off()
+## png 
+##   1

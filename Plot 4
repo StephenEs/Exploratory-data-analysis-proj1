@@ -21,3 +21,7 @@ with(data1, {
   plot(Global_reactive_power~Datetime, type="l", 
        ylab="Global Rective Power (kilowatts)",xlab="")
 })
+
+
+
+ 
